@@ -1,0 +1,14 @@
+#home{
+    color: chocolate;
+    background-image: url(food.jpg); 
+    background-repeat: no-repeat;
+#about{
+    color: rgb(65, 117, 12);
+}
+#contact{
+    color: rgb(19, 19, 129);
+    background-color: rgba(241, 3, 3, 0.38);
+}
+#settings{
+    color: rgb(5, 155, 201);
+}
