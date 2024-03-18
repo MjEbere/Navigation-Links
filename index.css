@@ -2,8 +2,11 @@
     color: chocolate;
     background-image: url(food.jpg); 
     background-repeat: no-repeat;
+    background-size: cover;
+}
 #about{
     color: rgb(65, 117, 12);
+    background-color: rgba(5, 165, 165, 0.705);
 }
 #contact{
     color: rgb(19, 19, 129);
@@ -11,4 +14,31 @@
 }
 #settings{
     color: rgb(5, 155, 201);
+    background-color: rgba(50, 204, 29, 0.836);
+}
+div h3{
+    text-align: right;
+    color: rgba(228, 221, 215, 0.9);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 0%;
+}
+div h1{
+    color: rgba(238, 107, 14, 0.884);
+    text-decoration-line: underline;
+    text-align: center;
+}
+#box{
+    background-color: rgba(87, 168, 6, 0.623);
+    width: 730px;
+    border: 15px rgb(107, 74, 2);
+    padding: 10px;
+    margin: 90px;
+    margin-left: 450px;
+    text-align: left;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
 }
