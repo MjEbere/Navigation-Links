@@ -5,15 +5,15 @@
     background-size: cover;
 }
 #about{
-    color: rgb(65, 117, 12);
-    background-color: rgba(5, 165, 165, 0.705);
+    color: rgb(129, 250, 9);
+    background-image: url(cham.jpg);
 }
 #contact{
     color: rgb(19, 19, 129);
     background-color: rgba(241, 3, 3, 0.38);
 }
 #settings{
-    color: rgb(5, 155, 201);
+    color: rgb(233, 236, 236);
     background-color: rgba(50, 204, 29, 0.836);
 }
 div h3{
@@ -31,8 +31,25 @@ div h1{
 #box{
     background-color: rgba(87, 168, 6, 0.623);
     width: 730px;
-    border: 15px rgb(107, 74, 2);
+    border-style: solid;
+    border-radius: 50px;
     padding: 10px;
+    margin: 90px;
+    margin-left: 450px;
+    text-align: left;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+}
+div p{
+    background-color: rgba(60, 112, 12, 0.2);
+    width: 730px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: aliceblue;
+    padding: 30px;
     margin: 90px;
     margin-left: 450px;
     text-align: left;
